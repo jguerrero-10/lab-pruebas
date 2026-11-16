@@ -1,4 +1,4 @@
-﻿---
+---
 name: Reporte de defecto
 about: Plantilla del laboratorio para documentar un defecto
 title: "[Módulo] Descripción breve del fallo"
